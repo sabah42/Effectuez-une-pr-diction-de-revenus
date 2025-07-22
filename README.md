@@ -3,7 +3,6 @@
 ## Table des matières
 
 - [Description du projet](#description-du-projet)
-- [Structure du projet](#structure-du-projet)
 - [Jeu de données](#jeu-de-données)
 - [Outils et bibliothèques](#outils-et-bibliothèques)
 - [Préparation des données](#préparation-des-données)
@@ -22,7 +21,6 @@ Il vise à construire un modèle statistique capable d'estimer le revenu potenti
 
 Il s’agit ici **d’une modélisation exploratoire**, sans passer à la prédiction finale.  
 Le but est de **comprendre l’impact des origines sociales et géographiques** sur les revenus futurs, à l’échelle mondiale.
-## Structure du projet
 
 ## Jeu de données
 
